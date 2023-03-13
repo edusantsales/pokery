@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "adpyke.codesnap",
+        "dart-code.dart-code",
+        "miquelddg.dart-barrel-file-generator",
+        "usernamehw.errorlens",
+        "dart-code.flutter",
+        "rodrigorahman.flutter-dart-utils",
+        "pomber.git-file-history",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "ms-vscode.theme-materialkit",
+        "rocketseat.theme-omni",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "jock.svg",
+    ]
+}

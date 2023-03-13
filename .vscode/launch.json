@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "name": "Development",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "env": "debug",
+            "args": [
+                "--dart-define=FLUTTER_WEB_USE_SKIA=true",
+                "--dart-define=API_URL=https://pokeapi.co/api/v2"
+            ],
+        },
+        {
+            "name": "Stage",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "env": "profile",
+            "args": [],
+        },
+        {
+            "name": "Main",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "env": "release",
+            "args": [],
+        }
+    ]
+}
